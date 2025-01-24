@@ -1,0 +1,355 @@
+Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
+3512,1,9,Alohomora,Charm,Opens locked objects,Hermione Granger,NA,Hogwarts
+3759,1,10,Wingardium Leviosa,Charm,Makes objects levitate,Ron Weasley,NA,Hogwarts
+3764,1,10,Wingardium Leviosa,Charm,Makes objects levitate,Hermione Granger,NA,Hogwarts
+3872,1,10,Wingardium Leviosa,Charm,Makes objects levitate,Ron Weasley,Troll,Hogwarts
+5987,1,16,Petrificus Totalus,Curse,Temporarily paralyze the target,Hermione Granger,Neville Longbottom,Hogwarts
+6128,1,16,Alohomora,Charm,Opens locked objects,Hermione Granger,NA,Hogwarts
+10938,2,11,Expelliarmus,Charm,Disarms opponent,Severus Snape,Gilderoy Lockhard,Hogwarts
+10976,2,11,Rictusempra,Charm,Tickles an opponent,Harry Potter,Draco Malfoy,Hogwarts
+10983,2,11,Tarantallegra,Charm,Make the target's leg move uncontrollably,Draco Malfoy,Harry Potter,Hogwarts
+10986,2,11,Finite Incantatem,Counter-Spell,Put an end to spell effects around the target,Severus Snape,Harry Potter,Hogwarts
+11020,2,11,Serpensortia,Conjuration,Conjures a serpent,Draco Malfoy,NA,Hogwarts
+11890,2,13,Aparecium,Charm,Reveals hidden messages and markings,Hermione Granger,NA,Hogwarts
+12023,2,14,Expelliarmus,Charm,Disarms opponent,Harry Potter,Draco Malfoy,Hogwarts
+12715,2,16,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+13307,2,18,Expelliarmus,Charm,Disarms opponent,Harry Potter,Gilderoy Lockhard,Hogwarts
+13392,2,18,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+13427,2,18,Obliviate,Charm,Erases memories,Gilderoy Lockhart,Ron Weasley,Hogwarts
+14976,3,3,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Little Whinging
+16961,3,7,Waddiwasi,Charm,Shoots small objects toward a target,Remus Lupin,Peeves,Hogwarts
+17027,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Remus Lupin,NA,Hogwarts
+17088,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Neville Longbottom,NA,Hogwarts
+17096,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Parvati Patil,NA,Hogwarts
+17103,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Seamus Finnigan,NA,Hogwarts
+17110,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Dean Thomas,NA,Hogwarts
+17115,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Ron Weasley,NA,Hogwarts
+17122,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Remus Lupin,NA,Hogwarts
+17125,3,7,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Neville Longbottom,NA,Hogwarts
+17928,3,8,Impervius,Charm,"Makes the target object repel water and mist, keeping it dry",Hermione Granger,NA,Hogwarts
+18321,3,10,Dissendium,Charm,Opens passages,Harry Potter,NA,Hogwarts
+18327,3,10,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+18469,3,10,Mobiliarbus,Charm,Makes wooden objects float above the ground before moving them around,Hermione Granger,NA,Hogsmeade
+19220,3,12,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+19238,3,12,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+19271,3,12,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+19304,3,12,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+19312,3,12,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Remus Lupin,NA,Hogwarts
+19630,3,13,Lumos,Charm,Creates light at wand tip,Ron Weasley,NA,Hogwarts
+19761,3,13,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+20062,3,14,Dissendium,Charm,Opens passages,Harry Potter,NA,Hogwarts
+21263,3,17,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+21335,3,17,Nox,Charm,"Extinguishes wand light, counter-charm for Lumos",Hermione Granger,NA,Hogsmeade
+21335,3,17,Nox,Charm,"Extinguishes wand light, counter-charm for Lumos",Harry Potter,NA,Hogsmeade
+21353,3,17,Expelliarmus,Charm,Disarms opponent,Sirius Black,Ron Weasley,Hogsmeade
+21461,3,17,Expelliarmus,Charm,Disarms opponent,Remus Lupin,Harry Potter,Hogsmeade
+21848,3,19,Expelliarmus,Charm,Disarms opponent,Harry Potter,Severus Snape,Hogsmeade
+22199,3,19,Ferula,Conjuration,Conjure bandages and wraps them around the targeted area,Remus Lupin,Ron Weasley,Hogsmeade
+22208,3,19,Mobilicorpus,Charm,Makes bodies float and move,Remus Lupin,Severus Snape,Hogsmeade
+22298,3,20,Expelliarmus,Charm,Disarms opponent,Harry Potter,Peter Pettigrew,Hogsmeade
+22338,3,20,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+22341,3,20,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+22358,3,20,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+22935,3,21,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+23006,3,21,Alohomora,Charm,Opens locked objects,Hermione Granger,NA,Hogwarts
+23803,4,1,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Frank Bryce,Riddle House
+24509,4,4,Incendio,Charm,Produces a fire,Arthur Weasley,NA,Little Whinging
+24983,4,6,Accio,Charm,Summons an object toward the caster,Molly Weasley,NA,Dartmoor
+24992,4,6,Accio,Charm,Summons an object toward the caster,Molly Weasley,NA,Dartmoor
+25181,4,7,Obliviate,Charm,Erases memories,Archie Aymslowe,Mr. Robert,Dartmoor
+25750,4,8,Sonorus,Charm,Makes the target sound louder,Ludo Bagman,NA,Dartmoor
+26083,4,8,Quietus,Charm,Makes a target's sound quieter,Ludo Bagman,NA,Dartmoor
+26188,4,9,Lumos,Charm,Creates light at wand tip,Hermione Granger,NA,Dartmoor
+26353,4,9,Morsmordre,Conjuration,Conjures the Dark Mark in the air,Bartemius Crouch Junior,NA,Dartmoor
+26382,4,9,Stupefy,Charm,Stuns the target and makes them unconscious,Ministry of Magic,Winky,Dartmoor
+26382,4,9,Stupefy,Charm,Stuns the target and makes them unconscious,Ministry of Magic,Bartemius Crouch Junior,Dartmoor
+26522,4,9,Prior Incantato,Charm,Shows an echo of the last spell performed by the target wand,Amos Diggory,NA,Dartmoor
+26527,4,9,Deletrius,Charm,Used to vanish the image of the last spell cast created by a Reverse Spell,Amos Diggory,NA,Dartmoor
+27271,4,11,Reparo,Charm,Repairs broken objects,Hermione Granger,NA,Hogwarts
+28207,4,14,Imperio,Unforgivable Curse,Places the victim under the caster's control,Bartemius Crouch Junior,Spider,Hogwarts
+28244,4,14,Engorgio,Charm,Swell the size of the target,Bartemius Crouch Junior,NA,Hogwarts
+28247,4,14,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Bartemius Crouch Junior,Spider,Hogwarts
+28257,4,14,Reducio,Charm,Shrinks the size of an object,Bartemius Crouch Junior,NA,Hogwarts
+28275,4,14,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Bartemius Crouch Junior,Spider,Hogwarts
+30158,4,18,Densaugeo,Hex,Causes the victim's teeth to increase their length,Draco Malfoy,Harry Potter,Hogwarts
+30387,4,18,Orchideous,Conjuration,Conjures a bouquet of flowers,Garrick Ollivander,NA,Hogwarts
+30414,4,18,Avis,Conjuration,Conjures birds from the tip of the wand,Garrick Ollivander,NA,Hogwarts
+30813,4,19,Stupefy,Charm,Stuns the target and makes them unconscious,Dragon Keepers,Hungarian Horntail,Hogwarts
+31129,4,20,Diffindo,Charm,Creates precise cuts,Harry Potter,NA,Hogwarts
+31286,4,20,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Hogwarts
+31462,4,20,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Hogwarts
+34198,4,25,Accio,Charm,Summons an object toward the caster,Bartemius Crouch Junior,NA,Hogwarts
+34579,4,26,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+34679,4,26,Sonorus,Charm,Makes the target sound louder,Ludo Bagman,NA,Hogwarts
+34748,4,26,Relashio,Jinx,Forces the target to release its grip on whatever it is holding,Harry Potter,NA,Hogwarts
+36220,4,28,Lumos,Charm,Creates light at wand tip,Albus Dumbledore,NA,Hogwarts
+37620,4,31,Sonorus,Charm,Makes the target sound louder,Ludo Bagman,NA,Hogwarts
+37638,4,31,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+37676,4,31,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+37680,4,31,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Harry Potter,NA,Hogwarts
+37691,4,31,Reducio,Charm,Shrinks the size of an object,Harry Potter,NA,Hogwarts
+37742,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Blast-Ended Skrewt,Hogwarts
+37746,4,31,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Blast-Ended Skrewt,Hogwarts
+37748,4,31,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Blast-Ended Skrewt,Hogwarts
+37760,4,31,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Viktor Krum,Cedric Diggory,Hogwarts
+37769,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Viktor Krum,Hogwarts
+37877,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Spider,Hogwarts
+37881,4,31,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Spider,Hogwarts
+37881,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Spider,Hogwarts
+37888,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Cedric Diggory,Spider,Hogwarts
+37890,4,31,Expelliarmus,Charm,Disarms opponent,Harry Potter,Spider,Hogwarts
+37894,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Cedric Diggory,Spider,Hogwarts
+37894,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Spider,Hogwarts
+38002,4,32,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Peter Pettigrew,Cedric Diggory,Tom Riddle's Gravestone
+38245,4,33,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldermort,Avery II,Tom Riddle's Gravestone
+38488,4,33,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldermort,Harry Potter,Tom Riddle's Gravestone
+38603,4,34,Expelliarmus,Charm,Disarms opponent,Harry Potter,Lord Voldermort,Tom Riddle's Gravestone
+38758,4,34,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Death Eater,Tom Riddle's Gravestone
+38769,4,35,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Tom Riddle's Gravestone
+38996,4,35,Stupefy,Charm,Stuns the target and makes them unconscious,Albus Dumbledore,Bartemius Crouch Junior,Hogwarts
+40762,5,1,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Little Whinging
+40770,5,1,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Little Whinging
+40777,5,1,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Little Whinging
+40791,5,1,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Little Whinging
+41552,5,3,Lumos,Charm,Creates light at wand tip,Nymphadora Tonks,NA,Little Whinging
+41735,5,3,Scourgify,Charm,Cleans target objects,Nymphadora Tonks,NA,Little Whinging
+41742,5,3,Locomotor,Charm,Makes the target float above the ground before moving it around,Nymphadora Tonks,NA,Little Whinging
+42282,5,5,Evanesce,Charm,Make the target disappear,Bill Weasley,NA,12 Grimmauld Place
+45110,5,9,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Molly Weasley,NA,12 Grimmauld Place
+45114,5,9,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Molly Weasley,NA,12 Grimmauld Place
+45117,5,9,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Molly Weasley,NA,12 Grimmauld Place
+45126,5,9,Riddikulus,Charm,Turns a Boggart into a funny form before making it disappear,Remus Lupin,NA,12 Grimmauld Place
+45446,5,10,Scourgify,Charm,Cleans target objects,Ginny Weasley,NA,Hogwarts
+46658,5,12,Evanesce,Charm,Make the target disappear,Severus Snape,NA,Hogwarts
+49322,5,15,Reparo,Charm,Repairs broken objects,Harry Potter,NA,Hogwarts
+50526,5,18,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Hogwarts
+50555,5,18,Silencio,Charm,Silences the target,Hermione Granger,Bullfrog,Hogwarts
+50560,5,18,Silencio,Charm,Silences the target,Ron Weasley,Raven,Hogwarts
+50562,5,18,Silencio,Charm,Silences the target,Ron Weasley,Raven,Hogwarts
+50567,5,18,Silencio,Charm,Silences the target,Hermione Granger,Raven,Hogwarts
+50572,5,18,Silencio,Charm,Silences the target,Ron Weasley,Bullfrog,Hogwarts
+50671,5,18,Impervius,Charm,"Makes the target object repel water and mist, keeping it dry",Harry Potter,NA,Hogwarts
+51086,5,18,Expelliarmus,Charm,Disarms opponent,Neville Longbottom,Harry Potter,Hogwarts
+51627,5,19,Impedimenta,Jinx,Slow down or stop the target,Rolanda Hooch,Harry Potter,Hogwarts
+53305,5,22,Portus,Charm,Makes a target object into a Portkey,Albus Dumbledore,NA,Hogwarts
+53464,5,22,Accio,Charm,Summons an object toward the caster,Sirius Black,NA,12 Grimmauld Place
+54432,5,23,Alohomora,Charm,Opens locked objects,The Healer,NA,St Mungo's
+55083,5,24,Legilimens,Charm,Allows the caster to read the victim's mind,Severus Snape,Harry Potter,Hogwarts
+55132,5,24,Legilimens,Charm,Allows the caster to read the victim's mind,Severus Snape,Harry Potter,Hogwarts
+55158,5,24,Legilimens,Charm,Allows the caster to read the victim's mind,Severus Snape,Harry Potter,Hogwarts
+56701,5,26,Legilimens,Charm,Allows the caster to read the victim's mind,Severus Snape,Harry Potter,Hogwarts
+56709,5,26,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Hogwarts
+56724,5,26,Reparo,Charm,Repairs broken objects,Severus Snape,NA,Hogwarts
+56868,5,26,Locomotor,Charm,Makes the target float above the ground before moving it around,Filius Flitwick,NA,Hogwarts
+57834,5,28,Stupefy,Charm,Stuns the target and makes them unconscious,Dolores Umbridge,Weasleys' Wildfire Whiz-bangs,Hogwarts
+58131,5,28,Accio,Charm,Summons an object toward the caster,Filius Flitwick,NA,Hogwarts
+58231,5,28,Expelliarmus,Charm,Disarms opponent,James Potter,Severus Snape,Hogwarts
+58233,5,28,Impedimenta,Jinx,Slow down or stop the target,Sirius Black,Severus Snape,Hogwarts
+58254,5,28,Scourgify,Charm,Cleans target objects,James Potter,Severus Snape,Hogwarts
+58291,5,28,Petrificus Totalus,Curse,Temporarily paralyze the target,Sirius Black,Severus Snape,Hogwarts
+59036,5,29,Accio,Charm,Summons an object toward the caster,George Weasley,NA,Hogwarts
+59036,5,29,Accio,Charm,Summons an object toward the caster,Fred Weasley,NA,Hogwarts
+59146,5,30,Reparo,Charm,Repairs broken objects,Hermione Granger,NA,Hogwarts
+59421,5,30,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+59421,5,30,Lumos,Charm,Creates light at wand tip,Hermione Granger,NA,Hogwarts
+60177,5,31,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
+61292,5,33,Incarcerous,Conjuration,Conjure ropes or cords that tie the target,Dolores Umbridge,Magorian,Hogwarts
+61792,5,34,Flagrate,Charm,Lets the caster write in the air,Hermione Granger,NA,Ministry of Magic
+61881,5,34,Alohomora,Charm,Opens locked objects,Hermione Granger,NA,Ministry of Magic
+62074,5,35,Accio,Charm,Summons an object toward the caster,Death Eater,NA,Ministry of Magic
+62075,5,35,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Ministry of Magic
+62193,5,35,Reducto,Curse,Breaks or disintegrates objects,Luna Lovegood,NA,Ministry of Magic
+62193,5,35,Reducto,Curse,Breaks or disintegrates objects,Ginny Weasley,NA,Ministry of Magic
+62193,5,35,Reducto,Curse,Breaks or disintegrates objects,Neville Longbottom,NA,Ministry of Magic
+62193,5,35,Reducto,Curse,Breaks or disintegrates objects,Hermione Granger,NA,Ministry of Magic
+62193,5,35,Reducto,Curse,Breaks or disintegrates objects,Ron Weasley,NA,Ministry of Magic
+62193,5,35,Reducto,Curse,Breaks or disintegrates objects,Harry Potter,NA,Ministry of Magic
+62211,5,35,Stupefy,Charm,Stuns the target and makes them unconscious,Hermione Granger,Nott,Ministry of Magic
+62219,5,35,Colloportus,Charm,Used to lock doors and other objects with locks,Hermione Granger,NA,Ministry of Magic
+62243,5,35,Alohomora,Charm,Opens locked objects,Hermione Granger,NA,Ministry of Magic
+62250,5,35,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Crabbe Senior,Ministry of Magic
+62259,5,35,Expelliarmus,Charm,Disarms opponent,Neville Longbottom,Death Eater,Ministry of Magic
+62267,5,35,Stupefy,Charm,Stuns the target and makes them unconscious,Neville Longbottom,Death Eater,Ministry of Magic
+62276,5,35,Stupefy,Charm,Stuns the target and makes them unconscious,Hermione Granger,Death Eater,Ministry of Magic
+62286,5,35,Accio,Charm,Summons an object toward the caster,Hermione Granger,NA,Ministry of Magic
+62327,5,35,Impedimenta,Jinx,Slow down or stop the target,Death Eater,Hermione Granger,Ministry of Magic
+62327,5,35,Impedimenta,Jinx,Slow down or stop the target,Death Eater,Neville Longbottom,Ministry of Magic
+62335,5,35,Silencio,Charm,Silences the target,Hermione Granger,Antonin Dolohov,Ministry of Magic
+62338,5,35,Petrificus Totalus,Curse,Temporarily paralyze the target,Harry Potter,Antonin Dolohov,Ministry of Magic
+62474,5,35,Colloportus,Charm,Used to lock doors and other objects with locks,Harry Potter,NA,Ministry of Magic
+62485,5,35,Colloportus,Charm,Used to lock doors and other objects with locks,Harry Potter,NA,Ministry of Magic
+62504,5,35,Accio,Charm,Summons an object toward the caster,Ron Weasley,NA,Ministry of Magic
+62523,5,35,Diffindo,Charm,Creates precise cuts,Harry Potter,NA,Ministry of Magic
+62594,5,35,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Bellatrix Lestrange,Neville Longbottom,Ministry of Magic
+62639,5,35,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Walden Macnair,Ministry of Magic
+62650,5,35,Tarantallegra,Charm,Make the target's leg move uncontrollably,Antonin Dolohov,Neville Longbottom,Ministry of Magic
+62654,5,35,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Ministry of Magic
+62654,5,36,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Bellatrix Lestrange,NA,Ministry of Magic
+62658,5,35,Accio,Charm,Summons an object toward the caster,Antonin Dolohov,NA,Ministry of Magic
+62666,5,35,Petrificus Totalus,Curse,Temporarily paralyze the target,Harry Potter,Antonin Dolohov,Ministry of Magic
+62693,5,35,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Lucius Malfoy,Ministry of Magic
+62825,5,36,Wingardium Leviosa,Charm,Makes objects levitate,Harry Potter,NA,Ministry of Magic
+62862,5,36,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Harry Potter,Bellatrix Lestrange,Ministry of Magic
+62874,5,36,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Bellatrix Lestrange,Harry Potter,Ministry of Magic
+62885,5,36,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Bellatrix Lestrange,Ministry of Magic
+62908,5,36,Accio,Charm,Summons an object toward the caster,Bellatrix Lestrange,NA,Ministry of Magic
+62939,5,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Harry Potter,Ministry of Magic
+63000,5,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Fawkes,Ministry of Magic
+63100,5,36,Portus,Charm,Makes a target object into a Portkey,Albus Dumbledore,NA,Ministry of Magic
+65031,6,2,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Bellatrix Lestrange,Fox,Spinner's End
+65923,6,4,Lumos,Charm,Creates light at wand tip,Albus Dumbledore,NA,Slughorn house
+67630,6,7,Anapneo,Charm,Clears the target's throat if they are choking,Horace Slughorn,Marcus Belby,Hogwarts
+67834,6,7,Petrificus Totalus,Curse,Temporarily paralyze the target,Draco Malfoy,Harry Potter,Hogsmeade
+67870,6,8,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Hogsmeade
+67908,6,8,Episkey,Healing Charm,Heal minor injuries like broken noses or fingers,Nymphadora Tonks,Harry Potter,Hogsmeade
+67943,6,8,Alohomora,Charm,Opens locked objects,Harry Potter,NA,Hogwarts
+68023,6,8,Tergeo,Charm,Clears liquid out of an object,Hermione Granger,NA,Hogwarts
+68396,6,9,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Hogwarts
+68674,6,9,Specialis Revelio,Charm,Reveals if a spell was cast on the target,Hermione Granger,NA,Hogwarts
+68951,6,10,Reparo,Charm,Repairs broken objects,Bob Ogden,NA,Gaunt Shack
+69265,6,11,Diffindo,Charm,Creates precise cuts,Harry Potter,NA,Hogwarts
+69267,6,11,Reparo,Charm,Repairs broken objects,Harry Potter,NA,Hogwarts
+69668,6,12,Levicorpus,Jinx,Holds the victims in the air by their ankle,Harry Potter,Ron Weasley,Hogwarts
+69678,6,12,Liberacorpus,Counter-Jinx,A counter-jinx to Levicorpus,Harry Potter,Ron Weasley,Hogwarts
+70618,6,14,Reparo,Charm,Repairs broken objects,Harry Potter,NA,Hogwarts
+70696,6,14,Episkey,Healing Charm,Heal minor injuries like broken noses or fingers,Harry Potter,Demelza Robins,Hogwarts
+71081,6,14,Oppugno,Jinx,Causes targeted objects to attack a victim,Hermione Granger,Ron Weasley,Hogwarts
+72757,6,18,Specialis Revelio,Charm,Reveals if a spell was cast on the target,Ernie Macmillan,NA,Hogwarts
+73732,6,19,Muffliato,Charm,Fills people's ears with a buzzing preventing them from hearing surrounding sounds,Harry Potter,NA,Hogwarts
+73755,6,19,Langlock,Jinx,Locks the victim's tongue to the roof of their mouth,Harry Potter,Peeves,Hogwarts
+73814,6,20,Reparo,Charm,Repairs broken objects,Hermione Granger,NA,Hogwarts
+76172,6,24,Levicorpus,Jinx,Holds the victims in the air by their ankle,Harry Potter,Draco Malfoy,Hogwarts
+76178,6,24,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Draco Malfoy,Harry Potter,Hogwarts
+76179,6,24,Sectumsempra,Curse,Creates deep bleeding cuts that can kill the victim,Harry Potter,Draco Malfoy,Hogwarts
+76926,6,26,Lumos,Charm,Creates light at wand tip,Albus Dumbledore,NA,The Cave
+77043,6,26,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,The Cave
+77329,6,26,Rennervate,Charm,Wakes up unconscious beings,Harry Potter,Albus Dumbledore,The Cave
+77331,6,26,Rennervate,Charm,Wakes up unconscious beings,Harry Potter,Albus Dumbledore,The Cave
+77335,6,26,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Harry Potter,NA,The Cave
+77339,6,26,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Harry Potter,NA,The Cave
+77344,6,26,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Harry Potter,NA,The Cave
+77359,6,26,Petrificus Totalus,Curse,Temporarily paralyze the target,Harry Potter,Inferius,The Cave
+77366,6,26,Petrificus Totalus,Curse,Temporarily paralyze the target,Harry Potter,Inferius,The Cave
+77368,6,26,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Inferius,The Cave
+77368,6,26,Incarcerous,Conjuration,Conjure ropes or cords that tie the target,Harry Potter,Inferius,The Cave
+77373,6,26,Sectumsempra,Curse,Creates deep bleeding cuts that can kill the victim,Harry Potter,Inferius,The Cave
+77494,6,27,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Hogsmeade
+77545,6,27,Petrificus Totalus,Curse,Temporarily paralyze the target,Albus Dumbledore,Harry Potter,Hogwarts
+77545,6,27,Expelliarmus,Charm,Disarms opponent,Draco Malfoy,Albus Dumbledore,Hogwarts
+77815,6,27,Reducto,Curse,Breaks or disintegrates objects,Order of the Phoenix,NA,Hogwarts
+77842,6,27,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Severus Snape,Albus Dumbledore,Hogwarts
+77857,6,28,Petrificus Totalus,Curse,Temporarily paralyze the target,Harry Potter,Corban Yaxley,Hogwarts
+77877,6,28,Petrificus Totalus,Curse,Temporarily paralyze the target,Harry Potter,Fenrir Greyback,Hogwarts
+77886,6,28,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Amycus Carrow,Ginny Weasley,Hogwarts
+77887,6,28,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Amycus Carrow,Hogwarts
+77960,6,28,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Death Eater,Hogwarts
+77970,6,28,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Severus Snape,Hogwarts
+77976,6,28,Incendio,Charm,Produces a fire,Thorfinn Rowle,NA,Hogwarts
+78056,6,28,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Rubeus Hagrid,NA,Hogwarts
+78058,6,28,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Harry Potter,NA,Hogwarts
+79320,7,1,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Charity Burbage,Malfoy Manor
+80216,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Death Eater,Hedwig,Little Whinging
+80222,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Death Eater,Order of the Phoenix,Little Whinging
+80230,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Death Eater,Rubeus Hagrid,Little Whinging
+80235,7,4,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Death Eater,Little Whinging
+80269,7,4,Reparo,Charm,Repairs broken objects,Rubeus Hagrid,NA,Little Whinging
+80273,7,4,Wingardium Leviosa,Charm,Makes objects levitate,Harry Potter,NA,Little Whinging
+80279,7,4,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Death Eater,Little Whinging
+80304,7,4,Expelliarmus,Charm,Disarms opponent,Harry Potter,Stan Shunpike,Little Whinging
+80345,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Harry Potter,Little Whinging
+80353,7,4,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Little Whinging
+81032,7,6,Tergeo,Charm,Clears liquid out of an object,Ron Weasley,NA,The Burrow
+81089,7,6,Descendo,Charm,Move objects toward the ground,Ron Weasley,NA,The Burrow
+81400,7,7,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,The Burrow
+82408,7,9,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Remus Lupin,NA,The Burrow
+82408,7,9,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Nymphadora Tonks,NA,The Burrow
+82517,7,9,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Thorfinn Rowle,Tottenham Court Road
+82524,7,9,Expulso,Curse,Create an explosion caused by a change in pressure,Antonin Dolohov,NA,Tottenham Court Road
+82527,7,9,Petrificus Totalus,Curse,Temporarily paralyze the target,Hermione Granger,Antonin Dolohov,Tottenham Court Road
+82532,7,9,Diffindo,Charm,Creates precise cuts,Hermione Granger,NA,Tottenham Court Road
+82534,7,9,Diffindo,Charm,Creates precise cuts,Hermione Granger,NA,Tottenham Court Road
+82557,7,9,Obliviate,Charm,Erases memories,Hermione Granger,Antonin Dolohov,Tottenham Court Road
+82557,7,9,Obliviate,Charm,Erases memories,Hermione Granger,Thorfinn Rowle,Tottenham Court Road
+82652,7,9,Homenum Revelio,Charm,Reveal any human presence in the area,Hermione Granger,NA,12 Grimmauld Place
+82763,7,10,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,12 Grimmauld Place
+82997,7,10,Accio,Charm,Summons an object toward the caster,Hermione Granger,NA,12 Grimmauld Place
+83656,7,11,Expelliarmus,Charm,Disarms opponent,Hermione Granger,Mundungus Fletcher,12 Grimmauld Place
+84327,7,13,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Ministry of Magic
+84566,7,13,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Dolores Umbridge,Ministry of Magic
+84572,7,13,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Corban Yaxley,Ministry of Magic
+84580,7,13,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Ministry of Magic
+84589,7,13,Diffindo,Charm,Creates precise cuts,Harry Potter,NA,Ministry of Magic
+84593,7,13,Geminio,Charm,Duplicate an object,Hermione Granger,NA,Ministry of Magic
+84594,7,13,Relashio,Jinx,Forces the target to release its grip on whatever it is holding,Hermione Granger,NA,Ministry of Magic
+84606,7,13,Expecto Patronum,Charm,Repels dark creatures such as dementors,Hermione Granger,NA,Ministry of Magic
+84724,7,14,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Dartmoor
+84787,7,14,Protego Totalum,Charm,Protects the target area against intrusions for an extended period of time,Hermione Granger,NA,Dartmoor
+84787,7,14,Repello Muggletum,Charm,Keeps the Muggles away from the target,Hermione Granger,NA,Dartmoor
+84787,7,14,Salvio Hexia,Charm,Protects against hexes,Hermione Granger,NA,Dartmoor
+84788,7,14,Muffliato,Charm,Fills people's ears with a buzzing preventing them from hearing surrounding sounds,Hermione Granger,NA,Dartmoor
+84797,7,14,Erecto,Charm,Erect structures through the air,Hermione Granger,NA,Dartmoor
+84801,7,14,Cave Inimicum,Charm,Hides the caster behind an invisible boundary,Hermione Granger,NA,Dartmoor
+85264,7,15,Accio,Charm,Summons an object toward the caster,Dirk Cresswell,NA,Dartmoor
+86167,7,17,Tergeo,Charm,Clears liquid out of an object,Harry Potter,NA,Godric's Hollow
+86219,7,17,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Godric's Hollow
+86438,7,17,Reparo,Charm,Repairs broken objects,Hermione Granger,NA,Forest of Dean
+86439,7,17,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Forest of Dean
+86440,7,17,Expelliarmus,Charm,Disarms opponent,Harry Potter,Hermione Granger,Forest of Dean
+86831,7,19,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Forest of Dean
+86862,7,19,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Forest of Dean
+86893,7,19,Diffindo,Charm,Creates precise cuts,Harry Potter,NA,Forest of Dean
+87137,7,19,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Forest of Dean
+87365,7,20,Engorgio,Charm,Swell the size of the target,Harry Potter,NA,Forest of Dean
+87368,7,20,Reducio,Charm,Shrinks the size of an object,Harry Potter,NA,Forest of Dean
+87998,7,21,Homenum Revelio,Charm,Reveal any human presence in the area,Travers,NA,Lovegood House
+88026,7,21,Obliviate,Charm,Erases memories,Hermione Granger,Xenophilius Lovegood,Lovegood House
+88027,7,21,Deprimo,Charm,Used to create holes in the ground,Hermione Granger,NA,Lovegood House
+88036,7,22,Protego Totalum,Charm,Protects the target area against intrusions for an extended period of time,Hermione Granger,NA,Field
+88036,7,22,Salvio Hexia,Charm,Protects against hexes,Hermione Granger,NA,Field
+88039,7,22,Cave Inimicum,Charm,Hides the caster behind an invisible boundary,Ron Weasley,NA,Field
+88812,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Bellatrix Lestrange,Scabior,Malfoy Manor
+88812,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Bellatrix Lestrange,Snatchers,Malfoy Manor
+88913,7,23,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Bellatrix Lestrange,Hermione Granger,Malfoy Manor
+89012,7,23,Relashio,Jinx,Forces the target to release its grip on whatever it is holding,Ron Weasley,NA,Malfoy Manor
+89039,7,23,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Gellert Grindelwald,Nurmengard
+89045,7,23,Expelliarmus,Charm,Disarms opponent,Harry Potter,Bellatrix Lestrange,Malfoy Manor
+89048,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Lucius Malfoy,Malfoy Manor
+89079,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Fenrir Greyback,Malfoy Manor
+90253,7,26,Confundo,Charm,Confuses the target,Harry Potter,Gringotts Guards,Gringotts Bank
+90294,7,26,Imperio,Unforgivable Curse,Places the victim under the caster's control,Harry Potter,Bogrod,Gringotts Bank
+90302,7,26,Imperio,Unforgivable Curse,Places the victim under the caster's control,Harry Potter,Travers,Gringotts Bank
+90342,7,26,Imperio,Unforgivable Curse,Places the victim under the caster's control,Harry Potter,Travers,Gringotts Bank
+90382,7,26,Imperio,Unforgivable Curse,Places the victim under the caster's control,Harry Potter,Bogrod,Gringotts Bank
+90388,7,26,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Hermione Granger,NA,Gringotts Bank
+90437,7,26,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Gringotts Bank
+90471,7,26,Accio,Charm,Summons an object toward the caster,Hermione Granger,NA,Gringotts Bank
+90494,7,26,Levicorpus,Jinx,Holds the victims in the air by their ankle,Hermione Granger,Harry Potter,Gringotts Bank
+90500,7,26,Impervius,Charm,"Makes the target object repel water and mist, keeping it dry",Hermione Granger,NA,Gringotts Bank
+90534,7,26,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Gringotts goblins,Gringotts Bank
+90534,7,26,Stupefy,Charm,Stuns the target and makes them unconscious,Hermione Granger,Gringotts goblins,Gringotts Bank
+90534,7,26,Stupefy,Charm,Stuns the target and makes them unconscious,Ron Weasley,Gringotts goblins,Gringotts Bank
+90541,7,26,Relashio,Jinx,Forces the target to release its grip on whatever it is holding,Harry Potter,NA,Gringotts Bank
+90561,7,26,Defodio,Charm,Carves writings or symbols through the target,Hermione Granger,NA,Gringotts Bank
+90697,7,27,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Gringotts Guards,Gringotts Bank
+90810,7,28,Accio,Charm,Summons an object toward the caster,Death Eater,NA,Hogsmeade
+90847,7,28,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogsmeade
+90874,7,28,Expecto Patronum,Charm,Repels dark creatures such as dementors,Aberforth Dumbledore,NA,Hogsmeade
+91613,7,30,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Harry Potter,Amycus Carrow,Hogwarts
+91642,7,30,Imperio,Unforgivable Curse,Places the victim under the caster's control,Minerva McGonagall,Amycus Carrow,Hogwarts
+91808,7,30,Piertotum Locomator,Charm,Animates inanimate targets such as statues and brings them to life,Minerva McGonagall,NA,Hogwarts
+92371,7,31,Descendo,Charm,Move objects toward the ground,Vincent Crabbe,NA,Hogwarts
+92385,7,31,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Vincent Crabbe,Harry Potter,Hogwarts
+92396,7,31,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Vincent Crabbe,Hermione Granger,Hogwarts
+92403,7,31,Expelliarmus,Charm,Disarms opponent,Harry Potter,Gregory Goyle,Hogwarts
+92408,7,31,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Vincent Crabbe,Ron Weasley,Hogwarts
+92419,7,31,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Harry Potter,NA,Hogwarts
+92673,7,32,Glisseo,Charm,Flatten a stairway step into a slide,Hermione Granger,NA,Hogwarts
+92678,7,32,Duro,Charm,Transform a target object into a stone,Hermione Granger,NA,Hogwarts
+92864,7,32,Nox,Charm,"Extinguishes wand light, counter-charm for Lumos",Harry Potter,NA,Hogsmeade
+93609,7,33,Expecto Patronum,Charm,Repels dark creatures such as dementors,Severus Snape,NA,Hogwarts
+93833,7,34,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
+94431,7,36,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldermort,Harry Potter,Hogwarts
+94674,7,36,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Hogwarts
+94819,7,36,Expelliarmus,Charm,Disarms opponent,Harry Potter,Lord Voldermort,Hogwarts
+94819,7,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Lord Voldemort,Hogwarts
+94943,7,36,Reparo,Charm,Repairs broken objects,Harry Potter,NA,Hogwarts
