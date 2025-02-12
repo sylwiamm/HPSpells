@@ -52,7 +52,7 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 22358,3,20,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
 22935,3,21,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogwarts
 23006,3,21,Alohomora,Charm,Opens locked objects,Hermione Granger,NA,Hogwarts
-23803,4,1,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Frank Bryce,Riddle House
+23803,4,1,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Frank Bryce,Riddle House
 24509,4,4,Incendio,Charm,Produces a fire,Arthur Weasley,NA,Little Whinging
 24983,4,6,Accio,Charm,Summons an object toward the caster,Molly Weasley,NA,Dartmoor
 24992,4,6,Accio,Charm,Summons an object toward the caster,Molly Weasley,NA,Dartmoor
@@ -101,9 +101,9 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 37894,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Cedric Diggory,Spider,Hogwarts
 37894,4,31,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Spider,Hogwarts
 38002,4,32,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Peter Pettigrew,Cedric Diggory,Tom Riddle's Gravestone
-38245,4,33,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldermort,Avery II,Tom Riddle's Gravestone
-38488,4,33,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldermort,Harry Potter,Tom Riddle's Gravestone
-38603,4,34,Expelliarmus,Charm,Disarms opponent,Harry Potter,Lord Voldermort,Tom Riddle's Gravestone
+38245,4,33,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldemort,Avery II,Tom Riddle's Gravestone
+38488,4,33,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldemort,Harry Potter,Tom Riddle's Gravestone
+38603,4,34,Expelliarmus,Charm,Disarms opponent,Harry Potter,Lord Voldemort,Tom Riddle's Gravestone
 38758,4,34,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Death Eater,Tom Riddle's Gravestone
 38769,4,35,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Tom Riddle's Gravestone
 38996,4,35,Stupefy,Charm,Stuns the target and makes them unconscious,Albus Dumbledore,Bartemius Crouch Junior,Hogwarts
@@ -193,8 +193,8 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 62874,5,36,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Bellatrix Lestrange,Harry Potter,Ministry of Magic
 62885,5,36,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Bellatrix Lestrange,Ministry of Magic
 62908,5,36,Accio,Charm,Summons an object toward the caster,Bellatrix Lestrange,NA,Ministry of Magic
-62939,5,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Harry Potter,Ministry of Magic
-63000,5,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Fawkes,Ministry of Magic
+62939,5,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Harry Potter,Ministry of Magic
+63000,5,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Fawkes,Ministry of Magic
 63100,5,36,Portus,Charm,Makes a target object into a Portkey,Albus Dumbledore,NA,Ministry of Magic
 65031,6,2,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Bellatrix Lestrange,Fox,Spinner's End
 65923,6,4,Lumos,Charm,Creates light at wand tip,Albus Dumbledore,NA,Slughorn house
@@ -247,7 +247,7 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 77976,6,28,Incendio,Charm,Produces a fire,Thorfinn Rowle,NA,Hogwarts
 78056,6,28,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Rubeus Hagrid,NA,Hogwarts
 78058,6,28,Aguamenti,Conjuration,Conjures drinkable water from a wand's extremity,Harry Potter,NA,Hogwarts
-79320,7,1,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Charity Burbage,Malfoy Manor
+79320,7,1,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Charity Burbage,Malfoy Manor
 80216,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Death Eater,Hedwig,Little Whinging
 80222,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Death Eater,Order of the Phoenix,Little Whinging
 80230,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Death Eater,Rubeus Hagrid,Little Whinging
@@ -256,7 +256,7 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 80273,7,4,Wingardium Leviosa,Charm,Makes objects levitate,Harry Potter,NA,Little Whinging
 80279,7,4,Impedimenta,Jinx,Slow down or stop the target,Harry Potter,Death Eater,Little Whinging
 80304,7,4,Expelliarmus,Charm,Disarms opponent,Harry Potter,Stan Shunpike,Little Whinging
-80345,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Harry Potter,Little Whinging
+80345,7,4,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Harry Potter,Little Whinging
 80353,7,4,Accio,Charm,Summons an object toward the caster,Harry Potter,NA,Little Whinging
 81032,7,6,Tergeo,Charm,Clears liquid out of an object,Ron Weasley,NA,The Burrow
 81089,7,6,Descendo,Charm,Move objects toward the ground,Ron Weasley,NA,The Burrow
@@ -311,7 +311,7 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 88812,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Bellatrix Lestrange,Snatchers,Malfoy Manor
 88913,7,23,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Bellatrix Lestrange,Hermione Granger,Malfoy Manor
 89012,7,23,Relashio,Jinx,Forces the target to release its grip on whatever it is holding,Ron Weasley,NA,Malfoy Manor
-89039,7,23,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Gellert Grindelwald,Nurmengard
+89039,7,23,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Gellert Grindelwald,Nurmengard
 89045,7,23,Expelliarmus,Charm,Disarms opponent,Harry Potter,Bellatrix Lestrange,Malfoy Manor
 89048,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Lucius Malfoy,Malfoy Manor
 89079,7,23,Stupefy,Charm,Stuns the target and makes them unconscious,Harry Potter,Fenrir Greyback,Malfoy Manor
@@ -330,7 +330,7 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 90534,7,26,Stupefy,Charm,Stuns the target and makes them unconscious,Ron Weasley,Gringotts goblins,Gringotts Bank
 90541,7,26,Relashio,Jinx,Forces the target to release its grip on whatever it is holding,Harry Potter,NA,Gringotts Bank
 90561,7,26,Defodio,Charm,Carves writings or symbols through the target,Hermione Granger,NA,Gringotts Bank
-90697,7,27,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Gringotts Guards,Gringotts Bank
+90697,7,27,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Gringotts Guards,Gringotts Bank
 90810,7,28,Accio,Charm,Summons an object toward the caster,Death Eater,NA,Hogsmeade
 90847,7,28,Expecto Patronum,Charm,Repels dark creatures such as dementors,Harry Potter,NA,Hogsmeade
 90874,7,28,Expecto Patronum,Charm,Repels dark creatures such as dementors,Aberforth Dumbledore,NA,Hogsmeade
@@ -348,8 +348,8 @@ Position,Book,Chapter,Spell,Spell Type,Effect,Caster,Target,Location
 92864,7,32,Nox,Charm,"Extinguishes wand light, counter-charm for Lumos",Harry Potter,NA,Hogsmeade
 93609,7,33,Expecto Patronum,Charm,Repels dark creatures such as dementors,Severus Snape,NA,Hogwarts
 93833,7,34,Lumos,Charm,Creates light at wand tip,Harry Potter,NA,Hogwarts
-94431,7,36,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldermort,Harry Potter,Hogwarts
+94431,7,36,Crucio,Unforgivable Curse,Used to torture the victim by creating intense and dangerous pain in the body,Lord Voldemort,Harry Potter,Hogwarts
 94674,7,36,Protego,Charm,Conjures an invisible shield that protects against minor spells and entities,Harry Potter,NA,Hogwarts
-94819,7,36,Expelliarmus,Charm,Disarms opponent,Harry Potter,Lord Voldermort,Hogwarts
-94819,7,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldermort,Lord Voldemort,Hogwarts
+94819,7,36,Expelliarmus,Charm,Disarms opponent,Harry Potter,Lord Voldemort,Hogwarts
+94819,7,36,Avada Kedavra,Unforgivable Curse,Kills the victim instantly,Lord Voldemort,Lord Voldemort,Hogwarts
 94943,7,36,Reparo,Charm,Repairs broken objects,Harry Potter,NA,Hogwarts
